@@ -6,4 +6,4 @@
 #
 # Syntax:
 1.Makepattern(pattern) the pattern needs to be a string SPECIAL CHARACTERS: /d - can be any integer, /s - can be any character(str)
-1.1.search(text) - check for the pattern in the text
+1.1.search(text) - check for the pattern in the text.
