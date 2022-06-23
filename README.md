@@ -2,8 +2,8 @@
 # This module is about working with strings.
 # Features:
  
-1. Makepattern - it is a class which stores the pattern.
-1.1 search - checks if the pattern is in a string.                               
+1. Makepattern - it is a class which stores the pattern.          
+1.1 search - checks if the pattern is in a string.    
 1.2 overwrite - works like search but also replaces the section in the text.                         
 2/3 - search/overwrite - they work like the class functions but take a pattern as an agrument to.                      
 4/5 - rot13_encode/rot13_decode - a simple rot13 algorithm.                                   
