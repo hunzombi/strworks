@@ -1,10 +1,5 @@
-import re
-from unittest import result
-
-
 lower_cases="abcdefghijklmnopqrstuvwxyz"
 upper_cases=lower_cases.upper()
-
 
 class Makepattern:
     def __init__(self, pattern):
